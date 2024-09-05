@@ -1,10 +1,9 @@
-# Assignmnet 1 : IU2141220020_Aayush Desai
+# Assignmnet 3 : IU2141220020_Aayush Desai
 
-Submitting Date: 02/08/2024
 
 ## Assignment Level
 
-The assignment level for this task is: Medium
+The assignment level for this task is: Easy
 
 ## Code Quality
 
